@@ -56,6 +56,7 @@
 10. **维护**：每次改动同步 `CHANGELOG.md`（Keep a Changelog，语义化版本）；规范文档改动同步版本号。
 11. **徽章必须居中**：用 `<p align="center">` 包纯 HTML `<a><img></a>`，不要用 Markdown 图片语法；语言徽章三态为当前绿 / 可切换蓝 / 待补灰（无链接）。
 12. **锚点稳定**：README 标题用显式 `<a id="sec-N"></a>` + TOC `#sec-N`，保证长文档链接不失效。
+13. **关联标签**：每个仓库在 README 增设「🏷 关联标签」节（居中 shields.io 徽章），并同步设置 GitHub Topics（`gh repo edit <owner>/<repo> --add-topic "..."`）。
 
 ## 改动前检查
 

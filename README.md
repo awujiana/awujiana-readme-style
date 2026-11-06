@@ -48,9 +48,10 @@
 - [反馈建议](#sec-9)
 - [参考与致谢](#sec-10)
 - [赞助](#sec-11)
-- [关联仓库](#sec-12)
-- [作者联系方式](#sec-13)
-- [开源协议](#sec-14)
+- [关联标签](#sec-12)
+- [关联仓库](#sec-13)
+- [作者联系方式](#sec-14)
+- [开源协议](#sec-15)
 
 <a id="sec-2"></a>
 ## 🚀 项目简介
@@ -187,19 +188,37 @@ cp -r awujiana-readme-style "$HOME/.workbuddy-ai/skills/"
 > 占位图请替换为你自己的赞赏码（见 `references/sponsor-qrcode.md`），不需要赞助时删除本节。
 
 <a id="sec-12"></a>
+## 🏷 关联标签
+
+<p align="center">
+  <a href="https://github.com/topics/readme"><img alt="readme" src="https://img.shields.io/badge/readme-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/markdown"><img alt="markdown" src="https://img.shields.io/badge/markdown-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/documentation"><img alt="documentation" src="https://img.shields.io/badge/documentation-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/skill"><img alt="skill" src="https://img.shields.io/badge/skill-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/workbuddy"><img alt="workbuddy" src="https://img.shields.io/badge/workbuddy-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/ux-design"><img alt="ux-design" src="https://img.shields.io/badge/ux--design-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/naming-conventions"><img alt="naming-conventions" src="https://img.shields.io/badge/naming--conventions-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/template"><img alt="template" src="https://img.shields.io/badge/template-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/chinese"><img alt="chinese" src="https://img.shields.io/badge/chinese-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/open-source"><img alt="open-source" src="https://img.shields.io/badge/open--source-1f6feb?style=flat-square"></a>
+</p>
+
+> 以上为本仓库的 GitHub Topics（关联标签）；可在仓库首页 Topics 区或 `gh repo edit awujiana/awujiana-readme-style --add-topic "..."` 维护。
+
+<a id="sec-13"></a>
 ## 🔗 关联仓库
 
 - [awujiana/awujiana-readme-style](https://github.com/awujiana/awujiana-readme-style) — 本仓库
 - 「我的 README 风格」方法论仓库 — 本技能的方法论来源（样式参考、规范与发布区，随项目发布）
 
-<a id="sec-13"></a>
+<a id="sec-14"></a>
 ## 📮 作者联系方式
 
 - **作者**：awujiana
 - **GitHub**：[@awujiana](https://github.com/awujiana)
 - **邮箱**：bingshanlengtie@qq.com
 
-<a id="sec-14"></a>
+<a id="sec-15"></a>
 ## 📄 开源协议
 
 本项目基于 **[AGPL-3.0](LICENSE)**（GNU Affero General Public License v3.0）开源。

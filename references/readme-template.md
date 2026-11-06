@@ -45,6 +45,7 @@
 - [多语言支持](#-多语言支持)
 - [反馈建议](#-反馈建议)
 - [赞助](#-赞助)
+- [关联标签](#-关联标签)
 - [关联仓库](#-关联仓库)
 - [作者联系方式](#-作者联系方式)
 - [开源协议](#-开源协议)
@@ -154,6 +155,16 @@ install [PROJECT]
 > 赞赏完全自愿，不影响你使用本项目的任何功能，也不会获得额外的优先支持。
 >
 > 占位图请替换为你自己的赞赏码（见 `references/sponsor-qrcode.md`），不需要赞助时删除本节。
+
+## 🏷 关联标签
+
+<p align="center">
+  <a href="https://github.com/topics/readme"><img alt="readme" src="https://img.shields.io/badge/readme-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/markdown"><img alt="markdown" src="https://img.shields.io/badge/markdown-1f6feb?style=flat-square"></a>
+  <a href="https://github.com/topics/documentation"><img alt="documentation" src="https://img.shields.io/badge/documentation-1f6feb?style=flat-square"></a>
+</p>
+
+> 以上为本仓库的 GitHub Topics（关联标签），按内容选择 3–10 个，用 `gh repo edit AUTHOR/REPO --add-topic "..."` 维护；不需要时删除本节。
 
 ## 🔗 关联仓库
 
