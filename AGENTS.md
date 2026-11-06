@@ -28,6 +28,13 @@
 
 > 注意：本仓库**自身**没有 `输出readme/` `样式readme/` `规范/` 目录——那是技能所生成**目标仓库**的结构，不是本仓库的结构。本仓库就是技能本身。
 
+## 仓库与安装副本（单一真相）
+
+- 本仓库是技能的**唯一真相（source of truth）**。
+- 安装副本位于 `~/.workbuddy-ai/skills/awujiana-readme-style/`（Windows：`C:\Users\<你的用户名>\.workbuddy-ai\skills\awujiana-readme-style\`），是本仓库的 **git 克隆**。
+- 修改流程：**先改本仓库 → 提交并推送 → 在安装副本执行 `git pull` 同步**。不要直接改安装副本，否则会漂移。
+- 安装副本无需手动复制文件，`git pull` 即可对齐。
+
 ## 必须遵守的约定
 
 1. **命名规范（不缩写）**：项目 `kebab-case`、文件 / 函数 / 组件一律全拼无缩写、名称不重复、组件名 = 文件名。详见 `CONTRIBUTING.md` 的「命名规范（不缩写）」与 `references/naming-conventions.md`。
