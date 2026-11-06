@@ -1,0 +1,16 @@
+# 统一换行符：仓库内以 LF 存储，避免跨平台差异
+* text=auto eol=lf
+
+# Shell / Python 脚本必须为 LF，否则在 Unix / macOS 上无法执行
+*.sh text eol=lf
+*.py text eol=lf
+
+# Markdown / SVG 保持 LF
+*.md text eol=lf
+*.svg text eol=lf
+
+# 二进制资源不做换行转换
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
